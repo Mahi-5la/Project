@@ -9,7 +9,7 @@ the victim of phishing attack. Main aim of the attacker is to steal banks accoun
 United States businesses, there is a loss of US$2billion per year because their clients become 
 victim to phishing [1].  
 
-In 3rd Microsoft Computing Safer Index Report released in February 2014, it was used in the 
+In 3rd Microsoft Computing "Safer Index Report released in February 2014", it was used in the 
 estimated that the annual worldwide impact of phishing could be as high as $5 billion [2]. 
 Phishing attacks are becoming successful because lack of user awareness. Since phishing attack 
 exploits the weaknesses found in users, it is very difficult to mitigate them but it is very important 
