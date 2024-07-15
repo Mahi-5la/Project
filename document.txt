@@ -1,5 +1,5 @@
  
-ABOUT  THE PROJECT 
+                                     ABOUT  THE PROJECT 
 
 
 Nowadays Phishing becomes a main area of concern for security researchers because it 
@@ -8,7 +8,8 @@ identify fake websites but not all the users can identify the fake website and s
 the victim of phishing attack. Main aim of the attacker is to steal banks account credentials. In 
 United States businesses, there is a loss of US$2billion per year because their clients become 
 victim to phishing [1].  
-In 3rd Microsoft Computing Safer Index Report released in February 2014, it was 
+
+In 3rd Microsoft Computing Safer Index Report released in February 2014, it was used in the 
 estimated that the annual worldwide impact of phishing could be as high as $5 billion [2]. 
 Phishing attacks are becoming successful because lack of user awareness. Since phishing attack 
 exploits the weaknesses found in users, it is very difficult to mitigate them but it is very important 
