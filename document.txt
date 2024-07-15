@@ -1,0 +1,45 @@
+ 
+ABOUT  THE PROJECT 
+
+
+Nowadays Phishing becomes a main area of concern for security researchers because it 
+is not difficult to create the fake website which looks so close to legitimate website. Experts can 
+identify fake websites but not all the users can identify the fake website and such users become 
+the victim of phishing attack. Main aim of the attacker is to steal banks account credentials. In 
+United States businesses, there is a loss of US$2billion per year because their clients become 
+victim to phishing [1].  
+In 3rd Microsoft Computing Safer Index Report released in February 2014, it was 
+estimated that the annual worldwide impact of phishing could be as high as $5 billion [2]. 
+Phishing attacks are becoming successful because lack of user awareness. Since phishing attack 
+exploits the weaknesses found in users, it is very difficult to mitigate them but it is very important 
+to enhance phishing detection techniques.The general method to detect phishing websites by 
+updating blacklisted URLs, Internet Protocol (IP) to the antivirus database which is also known as 
+“blacklist" method.  
+
+To evade blacklists attackers uses creative techniques to fool users by modifying the 
+URL to appear legitimate via obfuscation and many other simple techniques including: fast-flux, 
+in which proxies are automatically generated to host the web-page; algorithmic generation of new 
+URLs; etc. Major drawback of this method is that, it cannot detect zero-hour phishing attack. 
+Heuristic based detection which includes characteristics that are found to exist in phishing attacks 
+in reality and can detect zero-hour phishing attack, but the characteristics are not guaranteed to 
+always exist in such attacks and false positive rate in detection is very high [3]. 
+To overcome the drawbacks of blacklist and heuristics based method, many security 
+researchers now focused on machine learning techniques. Machine learning technology consists 
+of a many algorithms which requires past data to make a  decision or prediction on future data. 
+Using this technique, algorithm will analyze various blacklisted and legitimate URLs and their 
+features to accurately detect the phishing websites including zero- hour phishing websites. 
+
+
+
+1.2 OBJECTIVES 
+
+Even though there are many ways to identify phishing today, it has grown to be 
+exceedingly challenging to identify false emails and messages in the contemporary 
+environment. Whitelisting, heuristics, blacklisting, and machine learning are some of the 
+tools available today for identifying phishing emails. This chapter suggests a machine 
+learning strategy to recognize phishing emails and prevent users from disclosing their pin, 
+user ID, or passwords. In this research, we presented a variety of machine-learning methods 
+to detect phishing attempts of any form. Given that the input URL might either be considered 
+phishing (1) or legal(0), we employed the data set that falls within the classification problem. 
+In this project, the following supervised machine learning models (classification) are taken 
+into consideration to training the data.
